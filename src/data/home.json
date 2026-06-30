@@ -38,12 +38,6 @@
       "icon": "mdi:email",
       "showInContact": true
     },
-    // {
-    //   "name": "Whatsapp",
-    //   "url": "https://wa.me/[YOUR_WHATSAPP_NUMBER]",
-    //   "icon": "mdi:whatsapp",
-    //   "showInContact": true
-    // },
     {
       "name": "Facebook",
       "url": "#",
