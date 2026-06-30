@@ -35,8 +35,8 @@
       "title": "Other",
       "skills": [
         { "name": "Git", "level": 3, "icon": "skill-icons:git" },
-        { "name": "GitHub", "level": 2, "icon": "skill-icons:github" },
-        { "name": "Bitbucket", "level": 2, "icon": "skill-icons:bitbucket-dark" }
+        { "name": "GitHub", "level": 2, "icon": "skill-icons:git" },
+        { "name": "Bitbucket", "level": 2, "icon": "skill-icons:git" }
       ]
     }
   ]
