@@ -11,7 +11,7 @@
     {
       "title": "Software Engineering (Frontend Development)",
       "skills": [
-        { "name": "VueJS", "level": 2, "icon": "skill-icons:vue" },
+        { "name": "VueJS", "level": 2, "icon": "skill-icons:html" },
         { "name": "HTML", "level": 2, "icon": "skill-icons:html" },
         { "name": "CSS", "level": 2, "icon": "skill-icons:css" }
       ]
